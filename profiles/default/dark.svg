@@ -198,7 +198,7 @@
           <text x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2">STARS</text>
         </g>
         <g transform="translate(149.33333333333331, 48)">
-          <text x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#ff00ff">[ 8 ]</text>
+          <text x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#ff00ff">[ 10 ]</text>
           <text x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2">REPOS</text>
         </g>
         <g transform="translate(274.66666666666663, 48)">
@@ -375,7 +375,7 @@
       <g transform="translate(24, 202)">
         <rect x="0" y="0" width="752" height="68" fill="#1e1e1e" rx="4" />
         <rect x="0" y="0" width="3" height="68" fill="#ff00ff" rx="1" />
-        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ff00ff">ishvah-24</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">Current stats about my progress</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ff00ff">★ 0</text>
+        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ff00ff">SmartPantryManager</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ff00ff">Java  ★ 0</text>
       </g>
   
   
@@ -464,7 +464,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 236.51617733278863;
+        stroke-dashoffset: 234.50504865406535;
       }
     }
   
@@ -491,7 +491,7 @@
 </style>
 <svg fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId" x="16" y="16" width="358" height="178" preserveAspectRatio="xMinYMin meet" viewBox="0 0 467 195">
         <title id="titleId">Ishvah's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits in 2026 : 24, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits in 2026 : 43, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         
 
         
@@ -570,7 +570,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >24</text>
+      >43</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -670,7 +670,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        41
+                        66
                     </text>
                 </g>
 
@@ -699,7 +699,7 @@
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        Sep 27, 2026 - Sep 28, 2026
+                        Sep 27, 2026 - Sep 30, 2026
                     </text>
                 </g>
 
@@ -716,7 +716,7 @@
                 <!-- Current Streak big number -->
                 <g transform='translate(247.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
-                        2
+                        4
                     </text>
                 </g>
 
@@ -725,7 +725,7 @@
                 <!-- Longest Streak big number -->
                 <g transform='translate(412.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.2s'>
-                        2
+                        5
                     </text>
                 </g>
 
@@ -739,7 +739,7 @@
                 <!-- Longest Streak range -->
                 <g transform='translate(412.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.4s'>
-                        Mar 2, 2026 - Mar 3, 2026
+                        Sep 17, 2026 - Sep 21, 2026
                     </text>
                 </g>
             </g>
