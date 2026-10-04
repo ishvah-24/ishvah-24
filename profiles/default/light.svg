@@ -464,7 +464,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 233.8916528503179;
+        stroke-dashoffset: 233.08950468909865;
       }
     }
   
@@ -491,7 +491,7 @@
 </style>
 <svg fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId" x="16" y="16" width="358" height="178" preserveAspectRatio="xMinYMin meet" viewBox="0 0 467 195">
         <title id="titleId">Ishvah's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits in 2026 : 49, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits in 2026 : 57, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         
 
         
@@ -570,7 +570,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >49</text>
+      >57</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -670,7 +670,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        72
+                        80
                     </text>
                 </g>
 
@@ -699,7 +699,7 @@
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        Sep 27, 2026 - Oct 2, 2026
+                        Sep 27, 2026 - Oct 4, 2026
                     </text>
                 </g>
 
@@ -716,7 +716,7 @@
                 <!-- Current Streak big number -->
                 <g transform='translate(247.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
-                        6
+                        8
                     </text>
                 </g>
 
@@ -725,7 +725,7 @@
                 <!-- Longest Streak big number -->
                 <g transform='translate(412.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.2s'>
-                        6
+                        8
                     </text>
                 </g>
 
@@ -739,7 +739,7 @@
                 <!-- Longest Streak range -->
                 <g transform='translate(412.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.4s'>
-                        Sep 27, 2026 - Oct 2, 2026
+                        Sep 27, 2026 - Oct 4, 2026
                     </text>
                 </g>
             </g>
