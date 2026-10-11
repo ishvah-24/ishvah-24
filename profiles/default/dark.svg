@@ -370,12 +370,12 @@
       <g transform="translate(24, 126)">
         <rect x="0" y="0" width="752" height="68" fill="#1e1e1e" rx="4" />
         <rect x="0" y="0" width="3" height="68" fill="#ff00ff" rx="1" />
-        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ff00ff">SmartPantryManager</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ff00ff">Java  ★ 0</text>
+        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ff00ff">SmartQ</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ff00ff">Python  ★ 0</text>
       </g>
       <g transform="translate(24, 202)">
         <rect x="0" y="0" width="752" height="68" fill="#1e1e1e" rx="4" />
         <rect x="0" y="0" width="3" height="68" fill="#ff00ff" rx="1" />
-        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ff00ff">SmartQ</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ff00ff">Python  ★ 0</text>
+        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#ff00ff">SmartPantryManager</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#ff00ff">Java  ★ 0</text>
       </g>
   
   
@@ -699,7 +699,7 @@
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        Oct 10, 2026
+                        Oct 11, 2026
                     </text>
                 </g>
 
